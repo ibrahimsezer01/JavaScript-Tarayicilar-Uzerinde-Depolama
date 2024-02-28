@@ -1,4 +1,4 @@
-// Local Storage'te javascript üzerinden de silme işlemi yapılabilir
+// Local Storage'te kullanıcıya ait (özel olmayan) verileri tarayıcının içerisinde depolayayibilir 
 
 
 
